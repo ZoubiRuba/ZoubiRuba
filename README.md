@@ -1,12 +1,17 @@
-- 👋 Hi, I’m Ruba Al Zoubi
-- 👀 I’m interested in figuring out the best ways to improve processes
-- 🌱 I’m currently learning in-depth knowledge of legal and quality standards
-- 💞️ I’m looking to collaborate on Helping companies produce quality products and services
-- 📫 How to reach me is by my phone number 00962778480774
-- 😄 Pronouns: she
-- ⚡ Fun fact: ...
+👋 Hi, I’m Ruba Al Zoubi, a QA Lead and Software Testing Trainer based in Jordan.
 
-<!---
-ZoubiRuba/ZoubiRuba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m passionate about improving software quality, refining processes, and mentoring QA professionals.
+
+💼 I bring over 19 years of experience in software quality assurance, including financial systems and integration testing.
+
+🌱 I’m expanding my skills in test automation, API testing, and security testing.
+
+🎓 I deliver practical QA training that connects testing concepts with real-world applications.
+
+💞️ I’m looking to collaborate on QA initiatives, testing projects, and training opportunities.
+
+📫 Reach me at: +962 7 7848 0774
+
+😄 Pronouns: she/her
+
+⚡ Fun fact: Finding a tricky bug can make my day!
